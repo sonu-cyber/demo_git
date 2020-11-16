@@ -1,13 +1,14 @@
-h1 {
- color:red;
+h1,div {
+  font-size:20px;
+  color:coral;
+  background:lightskyblue;
 
  }
- p{
-  color:green;
-  font-size:1.5em;
+
+ p.blue{
+   color:blue;
+   font-size:1.75em;
 
  }
- div{
-   color:coral;
-   background:lightskyblue;
- }
+
+ 
